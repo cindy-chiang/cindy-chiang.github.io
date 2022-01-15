@@ -240,6 +240,11 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
+	em {
+  		font-style: italic;
+  		color:  black;
+  		font-weight: 500;
+	}
 
 /* Container */
 
